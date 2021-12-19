@@ -1,0 +1,2 @@
+.container{max-width:1200px;margin:0 auto}.tittle{text-align:center;color:#000;font-size:3rem;padding:20px}.gallery{display:flex;flex-wrap:wrap;padding:20px 10px;align-items:center}.gallery__item{flex:25% 1;max-width:25%;padding:0 5px}.gallery__item img{margin-top:8px;vertical-align:middle;width:100%}@media screen and (max-width:800px){.gallery__item{flex:50% 1;max-width:50%}}@media screen and (max-width:600px){.gallery__item{flex:100% 1;max-width:100%}}
+/*# sourceMappingURL=7.00b51ad4.chunk.css.map */
